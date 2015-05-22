@@ -4,7 +4,7 @@
   "longName": "czTxtWatch",
   "companyName": "kecinzer",
   "versionCode": 1,
-  "versionLabel": "1.1",
+  "versionLabel": "1.2",
   "watchapp": {
     "watchface": true
   },
