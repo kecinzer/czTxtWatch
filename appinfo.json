@@ -1,0 +1,17 @@
+{
+  "uuid": "366f9064-0832-4a58-88fc-f5d4710ad72a",
+  "shortName": "czTxtWatch",
+  "longName": "czTxtWatch",
+  "companyName": "kecinzer",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
